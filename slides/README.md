@@ -11,6 +11,13 @@ http://nbviewer.jupyter.org/github/computational-class/cjc2016/tree/gh-pages/sli
 或者：
 http://computational-class.github.io/cjc2016/slides/slides.slides.html
 
+## 生成slides方法：
+
+        chengjuns-MacBook-Pro:~ chengjun$ cd github/cjc2016/code/
+        chengjuns-MacBook-Pro:code chengjun$ jupyter nbconvert *.ipynb --to slides
+
+
+
 # 时间安排
 
 - 36学时，两学分
