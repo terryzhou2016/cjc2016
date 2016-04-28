@@ -5,10 +5,9 @@
 - 计算传播网：http://computational-communication.com
 
 # PPT
+推荐使用nbviewer网站浏览（ http://nbviewer.jupyter.org/ ）
 
-http://nbviewer.jupyter.org/github/computational-class/cjc2016/tree/gh-pages/slides/
-
-或者：
+直接打开浏览，例如：
 http://computational-class.github.io/cjc2016/slides/slides.slides.html
 
 ## 生成slides方法：
