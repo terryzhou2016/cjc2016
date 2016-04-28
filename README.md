@@ -42,11 +42,11 @@
 # Tutorials
 http://github.com/computational-class/cjc2016/tree/gh-pages/code/
 
-推荐：复制code文件夹中的ipynb文件网络地址，粘贴到http://nbviewer.jupyter.org/更流畅浏览
+推荐：复制code文件夹中的ipynb文件网络地址，粘贴到http://nbviewer.jupyter.org/ 更流畅浏览
 
 
 # PPT
 http://github.com/computational-class/cjc2016/tree/gh-pages/slides/
 
-推荐：复制slides文件夹中的ipynb文件网络地址，粘贴到http://nbviewer.jupyter.org/更流畅浏览
+推荐：复制slides文件夹中的ipynb文件网络地址，粘贴到http://nbviewer.jupyter.org/ 更流畅浏览
 
