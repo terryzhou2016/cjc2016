@@ -1,4 +1,8 @@
-# 复旦大学《计算新闻传播学》课程
+# 复旦大学新媒体硕士课程《计算新闻传播学》
+
+- 授课人：王成军
+- 联系方式：wangchengjun@nju.edu.cn
+- 计算传播网：http://computational-communication.com
 
 # 时间安排
 
