@@ -34,3 +34,7 @@
 - 十六、网络科学：描述节点属性
 - 十七、网络科学：分析网络结构
 - 十八、课程总结与学生研究项目展示
+
+# Tutorial、代码、PPT
+
+http://nbviewer.jupyter.org/github/computational-class/cjc2016/tree/gh-pages/code/
